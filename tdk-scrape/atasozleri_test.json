@@ -1,0 +1,674 @@
+[
+   {
+      "soz_id": "1",
+      "sozum": "a'dan z'ye (kadar)",
+      "anlami": "baştan aşağı, tamamen, tamamıyla, bütünüyle: Evini a'dan z'ye değiştirdi.</i>",
+      "turu2": "Deyim"
+   },
+   {
+      "soz_id": "2",
+      "sozum": "aba altında er yatar",
+      "anlami": "giyim kuşam kişiliğe ölçü olamaz.",
+      "turu2": "Atasözü"
+   },
+   {
+      "soz_id": "3",
+      "sozum": "aba gibi",
+      "anlami": "kaba ve kalın (kumaş).",
+      "turu2": "Deyim"
+   },
+   {
+      "soz_id": "4",
+      "sozum": "aba vakti yaba, yaba vakti aba",
+      "anlami": "gereksinimler vaktinden önce ve ucuz olduğu zaman karşılanmalıdır.",
+      "turu2": "Atasözü"
+   },
+   {
+      "soz_id": "5",
+      "sozum": "abanın kadri yağmurda bilinir",
+      "anlami": "bir şeyin gerçek değeri, ancak ona çok ihtiyaç duyulduğu zaman iyi anlaşılır.",
+      "turu2": "Atasözü"
+   },
+   {
+      "soz_id": "6",
+      "sozum": "abanoz gibi",
+      "anlami": "1) çok sert: Abanoz gibi tahta.</i> 2) kapkara.",
+      "turu2": "Deyim"
+   },
+   {
+      "soz_id": "7",
+      "sozum": "abazan kalmak",
+      "anlami": "1) uzun süre cinsel ilişkide bulunmamak; 2) aç kalmak.",
+      "turu2": "Deyim"
+   },
+   {
+      "soz_id": "8",
+      "sozum": "abdal ata binince bey oldum sanır, şalgam aşa girince yağ oldum sanır",
+      "anlami": "görmemiş kişi, rastlantı sonucu layık olmadığı bir duruma kavuşursa bu durum kendisinin hakkıymış gibi aptalca böbürlenir.",
+      "turu2": "Atasözü"
+   },
+   {
+      "soz_id": "9",
+      "sozum": "abdal düğünden, çocuk oyundan usanmaz",
+      "anlami": "bir kimse sevdiği işi sürekli olarak yapmaktan bıkmaz.",
+      "turu2": "Atasözü"
+   },
+   {
+      "soz_id": "10",
+      "sozum": "abdal tekkede, hacı Mekke'de bulunur",
+      "anlami": "herkes kendisine yakışan ve uğraştığı işle ilgili olan yerdedir.",
+      "turu2": "Atasözü"
+   },
+   {
+      "soz_id": "11",
+      "sozum": "abdala 'kar yağıyor' demişler, 'titremeye hazırım (durmuşum)' demiş",
+      "anlami": "varlıklılar için sıkıntı olabilecek bir durum, yoksullar için söz konusu bile olmaz.",
+      "turu2": "Atasözü"
+   },
+   {
+      "soz_id": "12",
+      "sozum": "abdala malum olur",
+      "anlami": "bir şeyin olacağını önceden sezen kimseler için söylenen bir söz.",
+      "turu2": "Atasözü"
+   },
+   {
+      "soz_id": "13",
+      "sozum": "abdalın dostluğu köy görününceye kadar",
+      "anlami": "çıkarı dolayısıyla yakınlık gösteren kimse, işini yürütecek başkalarını bulduğunda sizinle ilgisini keser.",
+      "turu2": "Atasözü"
+   },
+   {
+      "soz_id": "14",
+      "sozum": "abdalın karnı doyunca gözü pabucundadır (yolda olur)",
+      "anlami": "çıkarına düşkün kimselerin arkadaşlığı işi bitinceye kadardır.",
+      "turu2": "Atasözü"
+   },
+   {
+      "soz_id": "15",
+      "sozum": "abdalın yağı çok olursa gâh borusuna çalar, gâh gerisine",
+      "anlami": "varlıklı ama akılsız ve hesapsız kişi malını gereksiz yerlere harcar, telef eder.",
+      "turu2": "Atasözü"
+   },
+   {
+      "soz_id": "16",
+      "sozum": "abdest almak",
+      "anlami": "1) Müslümanlar, belli ibadetleri yapabilmek için bir düzen içerisinde bazı organları yıkayıp bazılarını mesh ederek arınmak; 2) boy abdesti almak.",
+      "turu2": "Deyim"
+   },
+   {
+      "soz_id": "17",
+      "sozum": "abdest bozmak",
+      "anlami": "idrar veya dışkı yapmak.",
+      "turu2": "Deyim"
+   },
+   {
+      "soz_id": "18",
+      "sozum": "abdest tazelemek",
+      "anlami": "abdesti bozulmadığı hâlde yeniden abdest almak.",
+      "turu2": "Deyim"
+   },
+   {
+      "soz_id": "19",
+      "sozum": "abdesti gelmek",
+      "anlami": "abdest bozmaya gereksinim duymak.",
+      "turu2": "Deyim"
+   },
+   {
+      "soz_id": "20",
+      "sozum": "abdesti kaçmak",
+      "anlami": "abdesti bozulmak.",
+      "turu2": "Deyim"
+   },
+   {
+      "soz_id": "21",
+      "sozum": "abdestinde namazında olmak",
+      "anlami": "dindar olmak.",
+      "turu2": "Deyim"
+   },
+   {
+      "soz_id": "22",
+      "sozum": "abdestinden şüphesi olmamak",
+      "anlami": "yaptığı işte kusuru olmadığını kesin olarak bilmek.",
+      "turu2": "Deyim"
+   },
+   {
+      "soz_id": "23",
+      "sozum": "abdestsiz sofuya namaz mı dayanır",
+      "anlami": "kurallara, koşullara uyulmadıktan sonra bir sürü iş yapılabilir.",
+      "turu2": "Atasözü"
+   },
+   {
+      "soz_id": "24",
+      "sozum": "abdestsiz yere basmamak",
+      "anlami": "dinî kurallara titizlikle bağlı olmak.",
+      "turu2": "Deyim"
+   },
+   {
+      "soz_id": "25",
+      "sozum": "abesle iştigal etmek (uğraşmak)",
+      "anlami": "yersiz, yararsız işlerle vakit öldürmek: 'Yazarlarımızın çoğu yalnızca kendi ürünlerinin ne amaçla üretildiğini sayıp dökerek bir anlamda abesle iştigal ediyorlar.' -</i>T. Uyar.",
+      "turu2": "Deyim"
+   },
+   {
+      "soz_id": "26",
+      "sozum": "abıhayat içmiş",
+      "anlami": "yaşı çok ilerlemiş olmasına karşın genç görünen (kimse).",
+      "turu2": "Deyim"
+   },
+   {
+      "soz_id": "27",
+      "sozum": "abliyi kaçırmak (bırakmak, koyuvermek)",
+      "anlami": "1) soğukkanlılığını yitirip davranışlarını denetleyememek; 2) şaşırıp ne yapacağını bilememek.",
+      "turu2": "Deyim"
+   },
+   {
+      "soz_id": "28",
+      "sozum": "ablukayı yarmak",
+      "anlami": "kuşatılan bölgeden zor kullanarak dışarı çıkmak.",
+      "turu2": "Deyim"
+   },
+   {
+      "soz_id": "29",
+      "sozum": "abuk sabuk konuşmak",
+      "anlami": "ne söylediğini bilmeden, düşüncesiz, tutarsız konuşmak.",
+      "turu2": "Deyim"
+   },
+   {
+      "soz_id": "30",
+      "sozum": "acayibine gitmek",
+      "anlami": "yadırgamak, tuhafına gitmek.",
+      "turu2": "Deyim"
+   },
+   {
+      "soz_id": "31",
+      "sozum": "acele ile menzil alınmaz",
+      "anlami": "acele etmekle daha çabuk sonuç alınır sanılmamalıdır.",
+      "turu2": "Atasözü"
+   },
+   {
+      "soz_id": "32",
+      "sozum": "acele ile yürüyen yolda kalır",
+      "anlami": "iş yaparken acele eden şaşırır, işini bitiremez.",
+      "turu2": "Atasözü"
+   },
+   {
+      "soz_id": "33",
+      "sozum": "acele işe şeytan karışır",
+      "anlami": "düşünüp taşınmadan ivedi olarak yapılan işten iyi sonuç alınamaz.",
+      "turu2": "Atasözü"
+   },
+   {
+      "soz_id": "34",
+      "sozum": "acele işin sonu pişmanlık",
+      "anlami": "acele ederek yaptığımız işten istediğimiz sonucu alamayabiliriz.",
+      "turu2": "Atasözü"
+   },
+   {
+      "soz_id": "35",
+      "sozum": "Acem kılıcı gibi",
+      "anlami": "her iki tarafı da idare edebilen, güvenilmez (kimse).",
+      "turu2": "Deyim"
+   },
+   {
+      "soz_id": "36",
+      "sozum": "acemi katır kapı önünde yük indirir",
+      "anlami": "beceriksiz ve anlayışsız kişi kendisine yaptırılan işi en önemli yerinde bırakır.",
+      "turu2": "Atasözü"
+   },
+   {
+      "soz_id": "37",
+      "sozum": "acemi nalbant gâvur eşeğinde öğrenir",
+      "anlami": "mesleğinde ustalığa erişmemiş kimse, ilk denemelerini gözden çıkarılabilecek malzeme üzerinde yapar.",
+      "turu2": "Atasözü"
+   },
+   {
+      "soz_id": "38",
+      "sozum": "acemilik çekmek",
+      "anlami": "alışamadığı bir işte zorluk çekmek.",
+      "turu2": "Deyim"
+   },
+   {
+      "soz_id": "39",
+      "sozum": "acı (acılar) görmek",
+      "anlami": "kötü günler yaşamak.",
+      "turu2": "Deyim"
+   },
+   {
+      "soz_id": "40",
+      "sozum": "acı acıyı keser, su sancıyı",
+      "anlami": "bir güçlüğü yenmek için başka bir güç yola başvurulmalıdır.",
+      "turu2": "Atasözü"
+   },
+   {
+      "soz_id": "41",
+      "sozum": "acı çekmek (duymak)",
+      "anlami": "1) ağrı, sızı duymak: Ameliyattan sonra çok acı çekti.</i> 2) mec.</i> üzülmek, üzüntü içinde kalmak: 'Bu faciaya bizzat karışmışım gibi bir acı duyuyordum.' -</i>Y. K. Karaosmanoğlu.",
+      "turu2": "Deyim"
+   },
+   {
+      "soz_id": "42",
+      "sozum": "acı gelmek",
+      "anlami": "dokunmak, kırmak, üzmek: 'Bu durumun gerçeklerle uyumsuzluğu ona acı geliyor.' -</i>A. Kutlu.",
+      "turu2": "Deyim"
+   },
+   {
+      "soz_id": "43",
+      "sozum": "acı (kötü) söz insanı (adamı) dinden çıkarır, tatlı söz yılanı inden çıkarır",
+      "anlami": "gönül alıcı, okşayıcı sözlerle karşımızdakinin inadı yenilebilir.",
+      "turu2": "Atasözü"
+   },
+   {
+      "soz_id": "44",
+      "sozum": "acı patlıcanı kırağı çalmaz",
+      "anlami": "herhangi bir duruma alışkın olan kimseyi benzer kötü durumlar etkilemez.",
+      "turu2": "Atasözü"
+   },
+   {
+      "soz_id": "45",
+      "sozum": "acı söylemek",
+      "anlami": "olumsuz bir davranış karşısında gerçeği olduğu gibi söylemek.",
+      "turu2": "Deyim"
+   },
+   {
+      "soz_id": "46",
+      "sozum": "acıkan doymam sanır, susayan kanmam sanır",
+      "anlami": "bir şeyi uzun süre elde edemeyen kimse, daha sonra o şeyden ne kadar çok edinirse edinsin yine kendisine yetmeyeceği kanısında bulunur.",
+      "turu2": "Atasözü"
+   },
+   {
+      "soz_id": "47",
+      "sozum": "acıkan ne olsa yer, acıyan ne olsa söyler",
+      "anlami": "geçim sıkıntısı içinde bulunan kişi geçinebilmek için her yolu dener, her işi yapar, canı yanan kişi de sonunu düşünmeden ağzına geleni söyler.",
+      "turu2": "Atasözü"
+   },
+   {
+      "soz_id": "48",
+      "sozum": "acıkan ne yemez, acıyan ne demez",
+      "anlami": "geçim sıkıntısı içinde bulunan kişi geçinebilmek için her yolu dener, her işi yapar, canı yanan kişi de sonunu düşünmeden ağzına geleni söyler.",
+      "turu2": "Atasözü"
+   },
+   {
+      "soz_id": "49",
+      "sozum": "acıkanın yanağından, susayanın dudağından belli olur",
+      "anlami": "bir insanın ne durumda olduğu yüzünden anlaşılır.",
+      "turu2": "Atasözü"
+   },
+   {
+      "soz_id": "50",
+      "sozum": "acıklı başta akıl olmaz",
+      "anlami": "büyük sıkıntılar içinde bulunanlar mantık dışı işler yapabilirler.",
+      "turu2": "Atasözü"
+   },
+   {
+      "soz_id": "51",
+      "sozum": "acıkmış kudurmuştan beterdir",
+      "anlami": "uzun süre bir nesnenin yokluğunu çeken kimse, onu gördüğünde büyük bir istekle ona saldırır.",
+      "turu2": "Atasözü"
+   },
+   {
+      "soz_id": "52",
+      "sozum": "acından kimse ölmemiş",
+      "anlami": "kişi yoksul olabilir, işsiz ve parasız kalabilir ama aç kalmaz, mutlaka bir geçim yolu bulur.",
+      "turu2": "Atasözü"
+   },
+   {
+      "soz_id": "53",
+      "sozum": "acından ölmek",
+      "anlami": "1) çok acıkmak; 2) aşırı derecede yoksul olmak.",
+      "turu2": "Deyim"
+   },
+   {
+      "soz_id": "54",
+      "sozum": "acındırırsan arsız olur, acıktırırsan hırsız olur",
+      "anlami": "koruduğunuz kimsenin sürekli acınmasına izin verirseniz arsız olur, emeğinin karşılığını tam olarak vermediğiniz kişi de hırsız olur.",
+      "turu2": "Atasözü"
+   },
+   {
+      "soz_id": "55",
+      "sozum": "acısı içine (yüreğine) çökmek (işlemek)",
+      "anlami": "1) bir şeyin acısını derinden duymak; 2) kötü bir şey olacağını düşünerek önceden üzülmek.",
+      "turu2": "Deyim"
+   },
+   {
+      "soz_id": "56",
+      "sozum": "acısı ortaya çıkmak",
+      "anlami": "olumsuz sonucu yavaş yavaş ortaya çıkmak: 'Dur bakalım daha hele, o içtiklerinin acısı bir bir çıkacak ortaya.' -</i>M. İzgü.",
+      "turu2": "Deyim"
+   },
+   {
+      "soz_id": "57",
+      "sozum": "acısını almak",
+      "anlami": "1) acılığını gidermek; 2) sızıyı dindirmek.",
+      "turu2": "Deyim"
+   },
+   {
+      "soz_id": "58",
+      "sozum": "acısını bağrına (içine) basmak (gömmek)",
+      "anlami": "bir üzüntüye, sıkıntıya yakınmadan katlanmak.",
+      "turu2": "Deyim"
+   },
+   {
+      "soz_id": "59",
+      "sozum": "acısını çekmek",
+      "anlami": "yapılan yanlış bir işin doğurduğu sıkıntı ve üzüntü içinde bulunmak.",
+      "turu2": "Deyim"
+   },
+   {
+      "soz_id": "60",
+      "sozum": "acısını çıkarmak",
+      "anlami": "1) acılığını yok etmek: Soğanın acısını çıkarmak.</i> 2) mec.</i> uğradığı maddi veya manevi zararı karşılayacak bir iş yapmak. 3) mec.</i> öç almak: 'Ustanın kendisini küçük burjuva münevveri diye aşağılık görmesinin acısını çıkarıyor.' -</i>N. Hikmet.",
+      "turu2": "Deyim"
+   },
+   {
+      "soz_id": "61",
+      "sozum": "acısını görmek",
+      "anlami": "bir yakınının ölümünü görmek.",
+      "turu2": "Deyim"
+   },
+   {
+      "soz_id": "62",
+      "sozum": "acıyan uyumuş, acıkan uyumamış",
+      "anlami": "insan sıkıntıya katlanır da açlığa katlanamaz.",
+      "turu2": "Atasözü"
+   },
+   {
+      "soz_id": "63",
+      "sozum": "aciz içinde olmak",
+      "anlami": "gücü yetmemek, becerememek.",
+      "turu2": "Deyim"
+   },
+   {
+      "soz_id": "64",
+      "sozum": "âciz kalmak",
+      "anlami": "çok uğraşmasına karşın bir işi yapamamak: 'Kitaplar Taptuk'u anlatmaktan âciz kalır.' -</i>A. Kabaklı.",
+      "turu2": "Deyim"
+   },
+   {
+      "soz_id": "65",
+      "sozum": "acze düşmek",
+      "anlami": "çaresiz kalmak, elinden bir şey gelmemek.",
+      "turu2": "Deyim"
+   },
+   {
+      "soz_id": "66",
+      "sozum": "aç aç ile yatınca arada dilenci doğar",
+      "anlami": "karı koca yoksul olursa bunların çocukları da yoksul olur.",
+      "turu2": "Atasözü"
+   },
+   {
+      "soz_id": "67",
+      "sozum": "aç açık kalmak",
+      "anlami": "yoksulluk içinde, evsiz barksız kalmak.",
+      "turu2": "Deyim"
+   },
+   {
+      "soz_id": "68",
+      "sozum": "aç aman bilmez, çocuk zaman bilmez",
+      "anlami": "aç hiçbir mazeretle susturulamaz, çocuk da istediği şeyi hemen elde etmek ister.",
+      "turu2": "Atasözü"
+   },
+   {
+      "soz_id": "69",
+      "sozum": "aç aslandan tok domuz yeğdir",
+      "anlami": "soysuz olup para kazanan, soylu olup da para kazanmayandan üstündür.",
+      "turu2": "Atasözü"
+   },
+   {
+      "soz_id": "70",
+      "sozum": "aç at yol almaz, aç it av almaz",
+      "anlami": "iş gördürdüğünüz kimselerin haklarını tam olarak vermezseniz kendilerinden yararlanamazsınız.",
+      "turu2": "Atasözü"
+   },
+   {
+      "soz_id": "71",
+      "sozum": "aç ayı oynamaz",
+      "anlami": "kendisinden iş beklenilen kimseden emeğinin karşılığı esirgenmemelidir.",
+      "turu2": "Atasözü"
+   },
+   {
+      "soz_id": "72",
+      "sozum": "aç domuz darıdan çıkmaz",
+      "anlami": "kötü yaradılışlı aç olan kimse kime, neye zarar verdiğini düşünmeden sadece karnını doyurmaya bakar.",
+      "turu2": "Atasözü"
+   },
+   {
+      "soz_id": "73",
+      "sozum": "aç doymam, tok acıkmam sanır",
+      "anlami": "aç insan elde ettiğinden çoğunu ister, varlıklı insan ise daha fazlasını ister.",
+      "turu2": "Atasözü"
+   },
+   {
+      "soz_id": "74",
+      "sozum": "aç doyurmak",
+      "anlami": "yoksulları beslemek.",
+      "turu2": "Deyim"
+   },
+   {
+      "soz_id": "75",
+      "sozum": "aç elini kora sokar",
+      "anlami": "aç insan, geçimini sağlamak için kendisini her türlü tehlikeye atar.",
+      "turu2": "Atasözü"
+   },
+   {
+      "soz_id": "76",
+      "sozum": "aç esner, âşık gerinir",
+      "anlami": "herkes içinde bulunduğu koşula göre davranır.",
+      "turu2": "Atasözü"
+   },
+   {
+      "soz_id": "77",
+      "sozum": "aç gezmektense tok ölmek yeğdir",
+      "anlami": "yoksulluk ölümden de beterdir.",
+      "turu2": "Atasözü"
+   },
+   {
+      "soz_id": "78",
+      "sozum": "aç gözünü, açarlar gözünü",
+      "anlami": "yaptığın işlerde uyanık davranmazsan çok kötü durumlarla karşılaşır, gözünü dört açmak zorunda kalırsın.",
+      "turu2": "Atasözü"
+   },
+   {
+      "soz_id": "79",
+      "sozum": "aç ile dost olayım diyen peşin karnını doyursun",
+      "anlami": "yakınlık kurduğumuz kimsenin sağlama olanağı bulunmayan şeyi, ondan beklemeden kendimiz elde etmeye çalışmalıyız.",
+      "turu2": "Atasözü"
+   },
+   {
+      "soz_id": "80",
+      "sozum": "aç ile eceli gelen söyleşir",
+      "anlami": "açın gözü hiçbir şeyi görmez, karnını doyurabilmek için kendisine güçlük çıkaran bir kimseyi öldürebilir.",
+      "turu2": "Atasözü"
+   },
+   {
+      "soz_id": "81",
+      "sozum": "aç it fırın duvarını deler",
+      "anlami": "aç kimse karnını doyurmak için önüne çıkan engellerin tamamını aşar ve isteğini elde eder.",
+      "turu2": "Atasözü"
+   },
+   {
+      "soz_id": "82",
+      "sozum": "aç kalmak",
+      "anlami": "1) karnını doyuramamak: 'Fatma'nın yemek çantası olmasaydı, dün aç kalmıştım.' -</i>F. R. Atay. 2) yoksulluğa düşmek.",
+      "turu2": "Deyim"
+   },
+   {
+      "soz_id": "83",
+      "sozum": "aç kalmak, borçlu olmaktan iyidir",
+      "anlami": "sözünün eri olana, borcunu ödeyememek aç kalmaktan daha ağır gelir.",
+      "turu2": "Atasözü"
+   },
+   {
+      "soz_id": "84",
+      "sozum": "aç köpek fırın deler",
+      "anlami": "aç kimse karnını doyurmak için önüne çıkan engellerin tamamını aşar ve isteğini elde eder.",
+      "turu2": "Atasözü"
+   },
+   {
+      "soz_id": "85",
+      "sozum": "aç kurt aslana saldırır",
+      "anlami": "aç kimse karnını doyurmak için gerekirse ölümü göze alır.",
+      "turu2": "Atasözü"
+   },
+   {
+      "soz_id": "86",
+      "sozum": "aç kurt gibi",
+      "anlami": "büyük bir istekle.",
+      "turu2": "Deyim"
+   },
+   {
+      "soz_id": "87",
+      "sozum": "aç kurt yavrusunu yer",
+      "anlami": "açın gözü kararmıştır, karnını doyurmak için ölümü bile göze alarak kendisinden kat kat güçlü olan yaratıklarla boğuşur.",
+      "turu2": "Atasözü"
+   },
+   {
+      "soz_id": "88",
+      "sozum": "aç mezarı yoktur",
+      "anlami": "kişi yoksul olabilir, işsiz ve parasız kalabilir ama aç kalmaz, mutlaka bir geçim yolu bulur.",
+      "turu2": "Atasözü"
+   },
+   {
+      "soz_id": "89",
+      "sozum": "aç ne yemez, tok ne demez",
+      "anlami": "yoksul kimse eline geçen şeyin iyisine kötüsüne bakmaz, varlıklı kişi ise en güzel şeylerde bile kusur bulur.",
+      "turu2": "Atasözü"
+   },
+   {
+      "soz_id": "90",
+      "sozum": "aç ölmez gözü kararır, susuz ölmez benzi sararır",
+      "anlami": "yoksulluk insanı öldürmez ama türlü türlü üzüntü ve sıkıntı içinde yıpratır.",
+      "turu2": "Atasözü"
+   },
+   {
+      "soz_id": "91",
+      "sozum": "aç susuz kalmak",
+      "anlami": "1) yoksulluktan yaşayamayacak bir duruma gelmek; 2) yoksul bir duruma düşmek.",
+      "turu2": "Deyim"
+   },
+   {
+      "soz_id": "92",
+      "sozum": "aç tavuk kendini arpa (buğday) ambarında sanır",
+      "anlami": "insanlar, yokluğunu, yoksulluğunu çektikleri şeyler için olmayacak hayaller, düşler kurar.",
+      "turu2": "Atasözü"
+   },
+   {
+      "soz_id": "93",
+      "sozum": "aç tokun gözüne bakmakla doymaz",
+      "anlami": "yoksul insanla ilgilenmek ancak ona yardım etmekle olur.",
+      "turu2": "Atasözü"
+   },
+   {
+      "soz_id": "94",
+      "sozum": "aç yanında sarpın kurcalanmaz",
+      "anlami": "bir kimsenin yanında, onun çok duyarlı olduğu konuya değinmemek gerekir.",
+      "turu2": "Atasözü"
+   },
+   {
+      "soz_id": "95",
+      "sozum": "aç yanından kaç",
+      "anlami": "aç insan tehlikelidir.",
+      "turu2": "Atasözü"
+   },
+   {
+      "soz_id": "96",
+      "sozum": "aç yeri başka, acı yeri başka",
+      "anlami": "insanın yüreği ne denli acıyla dolu olsa da yemek yemeyi ister.",
+      "turu2": "Atasözü"
+   },
+   {
+      "soz_id": "97",
+      "sozum": "aça dokuz yorgan örtmüşler, yine uyuyamamış",
+      "anlami": "1) aç olan kimse, kendisine ne kadar rahatlık sağlanırsa sağlansın, dinlendirilemez. 2) bir şeye ihtiyaç duyan kimse, ancak onun giderilmesiyle rahata kavuşturulabilir.",
+      "turu2": "Atasözü"
+   },
+   {
+      "soz_id": "98",
+      "sozum": "açığını kapamak (kapatmak)",
+      "anlami": "1) eksiğinin veya küçük düşürücü durumunun anlaşılmamasını sağlamak; 2) eksiğini tamamlamak.",
+      "turu2": "Deyim"
+   },
+   {
+      "soz_id": "99",
+      "sozum": "açık ağız aç kalmaz",
+      "anlami": "isteklerini uygun bir biçimde söylemesini bilen kimse, onları önünde sonunda elde eder.",
+      "turu2": "Atasözü"
+   },
+   {
+      "soz_id": "100",
+      "sozum": "açık düşmek",
+      "anlami": "1) herhangi bir sebeple bir filodan veya istenilen yerden uzakta kalmak; 2) sp.</i> yağlı güreşte yenilgi sebebi olan sırtı veya yanı toprağa değmek.",
+      "turu2": "Deyim"
+   },
+   {
+      "soz_id": "101",
+      "sozum": "açık göte herkes tükürür",
+      "anlami": "utanç verici, iğrendirici davranışları herkes ayıplar, tiksinti ile karşılar.",
+      "turu2": "Atasözü"
+   },
+   {
+      "soz_id": "102",
+      "sozum": "açık kaba it değer (siyer)",
+      "anlami": "gizli kalması gereken şeyler herkese söylenirse bundan büyük zararlar doğar.",
+      "turu2": "Atasözü"
+   },
+   {
+      "soz_id": "103",
+      "sozum": "açık kapamak",
+      "anlami": "bütçenin gider fazlasını, para sağlayarak ortadan kaldırmak.",
+      "turu2": "Deyim"
+   },
+   {
+      "soz_id": "104",
+      "sozum": "açık kapı bırakmak",
+      "anlami": "gereğinde, bir konuya yeniden dönebilme imkânı bırakmak, kesip atmamak.",
+      "turu2": "Deyim"
+   },
+   {
+      "soz_id": "105",
+      "sozum": "açık vermek",
+      "anlami": "1) geliri, giderini karşılamamak; 2) gizlenmek istenen bir olayı, bir düşünceyi veya durumu elde olmayarak ortaya koymak, açıklamak.",
+      "turu2": "Deyim"
+   },
+   {
+      "soz_id": "106",
+      "sozum": "açık yaraya tuz ekilmez",
+      "anlami": "acısı henüz taze olan bir kimsenin üzüntüsü, birtakım söz ve davranışlarla artırılmamalıdır.",
+      "turu2": "Atasözü"
+   },
+   {
+      "soz_id": "107",
+      "sozum": "açıklar livası olmak",
+      "anlami": " alay</i> işsiz ve kazançsız kalmak.",
+      "turu2": "Deyim"
+   },
+   {
+      "soz_id": "108",
+      "sozum": "açıklığa kavuşturmak",
+      "anlami": "bir konu veya sorunu aydınlatmak, kapalılıktan kurtarmak, anlaşılır duruma getirmek.",
+      "turu2": "Deyim"
+   },
+   {
+      "soz_id": "109",
+      "sozum": "açıklık getirmek",
+      "anlami": "bir konu veya sorunu anlaşılır duruma getirmek.",
+      "turu2": "Deyim"
+   },
+   {
+      "soz_id": "110",
+      "sozum": "açıklık kazanmak",
+      "anlami": "bir konu aydınlanmak, anlaşılır duruma gelmek.",
+      "turu2": "Deyim"
+   },
+   {
+      "soz_id": "111",
+      "sozum": "açıkta kalmak (olmak)",
+      "anlami": "1) iş ve görev bulamamak; 2) yersiz yurtsuz kalmak; 3) birkaç kişinin birlikte eriştiği bir iyilikten yararlanamamak.",
+      "turu2": "Deyim"
+   },
+   {
+      "soz_id": "112",
+      "sozum": "açıktan almak",
+      "anlami": "1) den.</i> açıktan geçmek; 2) mec.</i> bir tehlikenin uzağından geçmek.",
+      "turu2": "Deyim"
+   }
+]
