@@ -1,0 +1,40 @@
+[
+    {
+        "soz_id": "1",
+        "soz_text": "Acem kılıcı gibi",
+        "meanings": [
+            {
+                "text": "her iki tarafı da idare edebilen, güvenilmez (kimse).",
+                "category": "",
+                "quote": {
+                    "text": "Örnek",
+                    "author": "A. Elim"
+                }
+            },
+            {
+                "text": "yağlı güreşte yenilgi sebebi olan sırtı veya yanı toprağa değmek.",
+                "category": "sports",
+                "quote": {
+                    "text": "Alıntı",
+                    "author": "M. Osman"
+                }
+            }
+        ],
+        "category": "Deyim"
+    },
+    {
+        "soz_id": "2",
+        "soz_text": "Example text",
+        "meanings": [
+            {
+                "text": "Example meaning.",
+                "category": "",
+                "quote": {}
+            }
+        ],
+        "category": "Deyim"
+    }
+]
+
+
+

@@ -6,22 +6,24 @@ from selenium.webdriver.common.by import By
 from dotenv import load_dotenv
 import csv
 import json
+from abbreviations import abbreviations
 
 # Load the JSON file
-with open('/Users/ceydog/Desktop/github_repos/deyim-atasozleri-thesaurus/tdk-scrape/atasozleri.json', 'r', encoding='UTF-8') as file:
+with open('/Users/ceydog/Desktop/github_repos/deyim-atasozleri-thesaurus/tdk-scrape/atasozleri_test.json', 'r', encoding='UTF-8') as file:
     data = json.load(file)
- 
+
 
 set_of_i_tags = set()
 contains_i_tag_pattern = r"</i>|\S+<\/i>\S*|</i>\S+"
 quoted_i_pattern = r"-</i>\S*"
-abbrev_i_tag_pattern = r""
 
 # Remove 'i tags' from 'anlami' attribute in each object
 for obj in data:
     if 'anlami' in obj and '</i>' in obj['anlami']:
+        for abbr in abbreviations.keys():
+            abbr_pattern = fr"\b{abbr}\b"
         # Find all occurrences of the pattern
-        matches = re.findall(pattern, obj['anlami'])
+        matches = re.findall(abbr_pattern, obj['anlami'])
         for match in matches:
             set_of_i_tags.add(match)
 

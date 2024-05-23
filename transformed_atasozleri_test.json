@@ -1,0 +1,160 @@
+[
+   {
+      "soz_id": "1",
+      "soz_text": "a'dan z'ye (kadar)",
+      "meanings": [
+         {
+            "text": "baştan aşağı, tamamen, tamamıyla, bütünüyle",
+            "category": "",
+            "quote": {
+               "text": "Evini a'dan z'ye değiştirdi.",
+               "author": ""
+            }
+         }
+      ],
+      "category": "Deyim"
+   },
+   {
+      "soz_id": "6",
+      "soz_text": "abanoz gibi",
+      "meanings": [
+         {
+            "text": "çok sert",
+            "category": "",
+            "quote": {
+               "text": "Abanoz gibi tahta.",
+               "author": ""
+            }
+         },
+         {
+            "text": "kapkara.",
+            "category": "",
+            "quote": {}
+         }
+      ],
+      "category": "Deyim"
+   },
+   {
+      "soz_id": "13",
+      "soz_text": "abdalın dostluğu köy görününceye kadar",
+      "meanings": [
+         {
+            "text": "çıkarı dolayısıyla yakınlık gösteren kimse, işini yürütecek başkalarını bulduğunda sizinle ilgisini keser.",
+            "category": "",
+            "quote": {}
+         }
+      ],
+      "category": "Atasözü"
+   },
+   {
+      "soz_id": "24",
+      "soz_text": "abdestsiz yere basmamak",
+      "meanings": [
+         {
+            "text": "dinî kurallara titizlikle bağlı olmak.",
+            "category": "",
+            "quote": {}
+         }
+      ],
+      "category": "Deyim"
+   },
+   {
+      "soz_id": "25",
+      "soz_text": "abesle iştigal etmek (uğraşmak)",
+      "meanings": [
+         {
+            "text": "yersiz, yararsız işlerle vakit öldürmek: 'Yazarlarımızın çoğu yalnızca kendi ürünlerinin ne amaçla üretildiğini sayıp dökerek bir anlamda abesle iştigal ediyorlar.' -T. Uyar.",
+            "category": "",
+            "quote": {
+               "text": "Yazarlarımızın çoğu yalnızca kendi ürünlerinin ne amaçla üretildiğini sayıp dökerek bir anlamda abesle iştigal ediyorlar.",
+               "author": "T. Uyar"
+            }
+         }
+      ],
+      "category": "Deyim"
+   },
+   {
+      "soz_id": "26",
+      "soz_text": "abıhayat içmiş",
+      "meanings": [
+         {
+            "text": "yaşı çok ilerlemiş olmasına karşın genç görünen (kimse).",
+            "category": "",
+            "quote": {}
+         }
+      ],
+      "category": "Deyim"
+   },
+   {
+      "soz_id": "27",
+      "soz_text": "abliyi kaçırmak (bırakmak, koyuvermek)",
+      "meanings": [
+         {
+            "text": "soğukkanlılığını yitirip davranışlarını denetleyememek;",
+            "category": "",
+            "quote": {}
+         },
+         {
+            "text": "şaşırıp ne yapacağını bilememek.",
+            "category": "",
+            "quote": {}
+         }
+      ],
+      "category": "Deyim"
+   },
+   {
+      "soz_id": "41",
+      "soz_text": "acı çekmek (duymak)",
+      "meanings": [
+         {
+            "text": "ağrı, sızı duymak",
+            "category": "",
+            "quote": {
+               "text": "Ameliyattan sonra çok acı çekti.",
+               "author": ""
+            }
+         },
+         {
+            "text": "mec. üzülmek, üzüntü içinde kalmak: 'Bu faciaya bizzat karışmışım gibi bir acı duyuyordum.' -Y. K. Karaosmanoğlu.",
+            "category": "",
+            "quote": {
+               "text": "Bu faciaya bizzat karışmışım gibi bir acı duyuyordum.",
+               "author": "Y. K"
+            }
+         }
+      ],
+      "category": "Deyim"
+   },
+   {
+      "soz_id": "42",
+      "soz_text": "acı gelmek",
+      "meanings": [
+         {
+            "text": "dokunmak, kırmak, üzmek: 'Bu durumun gerçeklerle uyumsuzluğu ona acı geliyor.' -A. Kutlu.",
+            "category": "",
+            "quote": {
+               "text": "Bu durumun gerçeklerle uyumsuzluğu ona acı geliyor.",
+               "author": "A. Kutlu"
+            }
+         }
+      ],
+      "category": "Deyim"
+   },
+   {
+      "soz_id": "112",
+      "soz_text": "açıktan almak",
+      "meanings": [
+         {
+            "text": "den. açıktan geçmek;",
+            "category": "",
+            "quote": {}
+         },
+         {
+            "text": "mec. bir tehlikenin uzağından geçmek.",
+            "category": "",
+            "quote": {}
+         }
+      ],
+      "category": "Deyim"
+   }
+]
